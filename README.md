@@ -1,2 +1,3 @@
 # hello-world
-first of many
+I'm a Ghost!
+I'm learning to code.
